@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(149, 219, 196);
+}
+.container{
+    height: 370px;
+    width: 360px;
+    border: 1px solid black;
+    margin-left: 400px;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#butt{
+    width: 160px;
+    height: 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
