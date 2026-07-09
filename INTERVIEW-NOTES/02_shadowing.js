@@ -27,3 +27,7 @@ function shadow2() {
 
 }
 shadow2()
+//==============================<>============================================
+
+// Hoisting is something which is only followed by let and const not with var 
+// var can  shows undefned without intiallisation
